@@ -1,3 +1,3 @@
-module gotmpl
+module queue
 
 go 1.20
